@@ -1,0 +1,19 @@
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\bin\Debug\Tarea_El_buho_inteligente.exe.config
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\bin\Debug\Tarea_El_buho_inteligente.exe
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\bin\Debug\Tarea_El_buho_inteligente.pdb
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Equipos.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Nuevos_Equipos.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Informacion_Equipo.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Pag_Inicio.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Properties.Resources.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Registrar_Equipo.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Registro.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Reporte_semanal.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Seleccionar_equipo.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.Seleccion_cliente.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.csproj.GenerateResource.Cache
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.exe
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.pdb
+C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\bin\Debug\Tarea_El_buho_inteligente.exe.config
+C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.exe
+C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Tarea_El_buho_inteligente\Tarea_El_buho_inteligente\obj\Debug\Tarea_El_buho_inteligente.pdb

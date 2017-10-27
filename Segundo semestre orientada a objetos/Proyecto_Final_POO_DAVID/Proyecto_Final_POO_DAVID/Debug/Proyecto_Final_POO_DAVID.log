@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 01/12/2015 08:06:22 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Proyecto_Final_POO_DAVID\Proyecto_Final_POO_DAVID\Proyecto_Final_POO_DAVID.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Juego.cpp main.cpp
+         main.cpp
+         Juego.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\proyecto_final_poo_david\proyecto_final_poo_david\juego.cpp(5): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\proyecto_final_poo_david\proyecto_final_poo_david\juego.cpp(30): error C2059: error de sintaxis : '}'
+         Generando código...
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Proyecto_Final_POO_DAVID\Proyecto_Final_POO_DAVID\Proyecto_Final_POO_DAVID.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:03.63

@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 29/09/2015 01:53:35 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Examen1ErParcial\Examen1ErParcial\Examen1ErParcial.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt polynomials.cpp
+         polynomials.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\examen1erparcial\examen1erparcial\doublenode.h(12): error C2061: error de sintaxis : identificador 'T'
+                 c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\examen1erparcial\examen1erparcial\doublenode.h(18) : vea la referencia a la creación de instancias de plantilla de clase 'DoubleNode<Node>' que se está compilando
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\examen1erparcial\examen1erparcial\doublenode.h(12): error C2535: 'DoubleNode<Node>::DoubleNode(void)' : función miembro ya definida o declarada
+                 c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\examen1erparcial\examen1erparcial\doublenode.h(11) : vea la declaración de 'DoubleNode<Node>::DoubleNode'
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Examen1ErParcial\Examen1ErParcial\Examen1ErParcial.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.70

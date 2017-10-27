@@ -1,0 +1,11 @@
+﻿Build started 19/06/2016 07:42:02 p. m..
+     1>Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\PruebaSFML\PruebaSFML\PruebaSFML.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Lobo\Downloads\SFML\SFML-2.3.2\include" /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(14): fatal error C1083: Cannot open include file: 'SFML/Audio.hpp': No such file or directory
+     1>Done Building Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\PruebaSFML\PruebaSFML\PruebaSFML.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.04

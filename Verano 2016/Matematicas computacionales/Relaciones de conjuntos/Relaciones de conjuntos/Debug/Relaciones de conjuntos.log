@@ -1,0 +1,15 @@
+﻿Build started 04/06/2016 11:10:34 p. m..
+     1>Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Relaciones de conjuntos\Relaciones de conjuntos\Relaciones de conjuntos.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Relaciones_Conjuntos.cpp
+         Relaciones_Conjuntos.cpp
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\verano 2016\matematicas computacionales\relaciones de conjuntos\relaciones de conjuntos\relaciones_conjuntos.cpp(228): warning C4101: 'transitive_left' : unreferenced local variable
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\verano 2016\matematicas computacionales\relaciones de conjuntos\relaciones de conjuntos\relaciones_conjuntos.cpp(229): warning C4101: 'transitive_right' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Relaciones de conjuntos\Debug\Relaciones de conjuntos.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Relaciones de conjuntos\Debug\Relaciones de conjuntos.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Relaciones de conjuntos\Debug\Relaciones de conjuntos.lib" /MACHINE:X86 Debug\Relaciones_Conjuntos.obj
+         Relaciones de conjuntos.vcxproj -> C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Relaciones de conjuntos\Debug\Relaciones de conjuntos.exe
+     1>Done Building Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Relaciones de conjuntos\Relaciones de conjuntos\Relaciones de conjuntos.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80

@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 03/02/2015 02:08:40 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Tarea4_MaximosMinimos\Tarea4_MaximosMinimos\Tarea4_MaximosMinimos.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Tarea4.cpp
+         Tarea4.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\tarea4_maximosminimos\tarea4_maximosminimos\tarea4.cpp(22): warning C4305: '=' : truncamiento de 'double' a 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Tarea4_MaximosMinimos\Debug\Tarea4_MaximosMinimos.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Tarea4_MaximosMinimos\Debug\Tarea4_MaximosMinimos.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Tarea4_MaximosMinimos\Debug\Tarea4_MaximosMinimos.lib" /MACHINE:X86 Debug\Tarea4.obj
+         Tarea4_MaximosMinimos.vcxproj -> C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Tarea4_MaximosMinimos\Debug\Tarea4_MaximosMinimos.exe
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Tarea4_MaximosMinimos\Tarea4_MaximosMinimos\Tarea4_MaximosMinimos.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.73

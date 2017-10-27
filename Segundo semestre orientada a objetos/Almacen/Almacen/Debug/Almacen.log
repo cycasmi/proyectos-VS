@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 09/04/2015 07:58:52 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Almacen\Almacen\Almacen.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\personaje.h(4): error C2011: 'Personaje' : nueva definición del tipo 'class'
+                 c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\personaje.h(4) : vea la declaración de 'Personaje'
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\heroe.h(5): error C2504: 'Personaje' : clase base sin definir
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\heroe.h(10): error C2065: 'nombre' : identificador no declarado
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\heroe.h(10): error C2614: 'Heroe' : inicialización de miembro no válida: 'Personaje' no es una base o miembro
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\heroe.h(14): error C2065: 'nombre' : identificador no declarado
+     1>c:\users\lobo\documents\visual studio 2013\projects\segundo semestre orientada a objetos\almacen\almacen\main.cpp(9): error C2440: 'inicializando' : no se puede realizar la conversión de 'Heroe *' a 'Personaje *'
+                 Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Almacen\Almacen\Almacen.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:01.81

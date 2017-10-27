@@ -1,0 +1,24 @@
+﻿Compilación iniciada a las 05/12/2014 12:08:20 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\AvanceFinalProyecto\AvanceFinalProyecto\AvanceFinalProyecto.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt CynthiaCastillo_A1374530_ProyectoFinal.c
+         CynthiaCastillo_A1374530_ProyectoFinal.c
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(109): warning C4013: 'as' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(152): warning C4101: 'x' : variable local sin referencia
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(213): warning C4047: 'return' : 'int' es distinto en los niveles de direccionamiento indirecto de 'int *'
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(314): warning C4047: 'función' : 'int *' es distinto en los niveles de direccionamiento indirecto de 'int **'
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(314): warning C4024: 'asCo' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(370): warning C4566: el carácter representado por el nombre de carácter universal '\u2662' no se puede representar en la página de códigos actual (1252)
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(370): warning C4566: el carácter representado por el nombre de carácter universal '\u2664' no se puede representar en la página de códigos actual (1252)
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(370): warning C4566: el carácter representado por el nombre de carácter universal '\u2667' no se puede representar en la página de códigos actual (1252)
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(370): warning C4566: el carácter representado por el nombre de carácter universal '\u2661' no se puede representar en la página de códigos actual (1252)
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(369): warning C4101: 'i' : variable local sin referencia
+     1>c:\users\lobo\documents\visual studio 2013\projects\avancefinalproyecto\avancefinalproyecto\cynthiacastillo_a1374530_proyectofinal.c(419): warning C4244: 'función' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\AvanceFinalProyecto\Debug\AvanceFinalProyecto.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\AvanceFinalProyecto\Debug\AvanceFinalProyecto.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\AvanceFinalProyecto\Debug\AvanceFinalProyecto.lib" /MACHINE:X86 Debug\CynthiaCastillo_A1374530_ProyectoFinal.obj
+         AvanceFinalProyecto.vcxproj -> C:\Users\Lobo\Documents\Visual Studio 2013\Projects\AvanceFinalProyecto\Debug\AvanceFinalProyecto.exe
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\AvanceFinalProyecto\AvanceFinalProyecto\AvanceFinalProyecto.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.31

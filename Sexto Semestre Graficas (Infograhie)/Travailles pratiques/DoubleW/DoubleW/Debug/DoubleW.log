@@ -1,0 +1,28 @@
+﻿Build started 16/01/2017 05:24:04 PM.
+     1>Project "C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\DoubleW\DoubleW.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\Dependencies\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(18): warning C4005: 'GLM_SWIZZLE' : macro redefinition
+                 c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\dependencies\include\glm\detail\setup.hpp(594) : see previous definition of 'GLM_SWIZZLE'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(1864): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(1865): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2099): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2154): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2238): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2403): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2404): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2405): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2406): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2407): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\inf2705.h(2408): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\main.cpp(149): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\travailles pratiques\doublew\doublew\main.cpp(268): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\Debug\DoubleW.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\Dependencies\lib" freeglut.lib glew32.lib glew32s.lib glfw3.lib SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\Debug\DoubleW.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\Debug\DoubleW.lib" /MACHINE:X86 Debug\main.obj
+         DoubleW.vcxproj -> C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\Debug\DoubleW.exe
+     1>Done Building Project "C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Travailles pratiques\DoubleW\DoubleW\DoubleW.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96

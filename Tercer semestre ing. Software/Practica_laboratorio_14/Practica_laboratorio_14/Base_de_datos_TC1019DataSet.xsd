@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Base_de_datos_TC1019DataSet" targetNamespace="http://tempuri.org/Base_de_datos_TC1019DataSet.xsd" xmlns:mstns="http://tempuri.org/Base_de_datos_TC1019DataSet.xsd" xmlns="http://tempuri.org/Base_de_datos_TC1019DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Base_de_datos_TC1019ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Base_de_datos_TC1019ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Practica_laboratorio_14.Properties.Settings.GlobalReference.Default.Base_de_datos_TC1019ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon13_aTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon13_aTableAdapter" Name="Ejercicio_Salon13_a" UserDataComponentName="Ejercicio_Salon13_aTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon13_a" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Entidad, Población FROM dbo.Ejercicio_Salon13_a</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Entidad" DataSetColumn="Entidad" />
+              <Mapping SourceColumn="Población" DataSetColumn="Población" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon13_bTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon13_bTableAdapter" Name="Ejercicio_Salon13_b" UserDataComponentName="Ejercicio_Salon13_bTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon13_b" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Entidad FROM dbo.Ejercicio_Salon13_b</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Entidad" DataSetColumn="Entidad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon13_cTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon13_cTableAdapter" Name="Ejercicio_Salon13_c" UserDataComponentName="Ejercicio_Salon13_cTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon13_c" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Hombres, [&gt;18 años] FROM dbo.Ejercicio_Salon13_c</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Hombres" DataSetColumn="Hombres" />
+              <Mapping SourceColumn="&gt;18 años" DataSetColumn="&gt;18 años" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon13_dTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon13_dTableAdapter" Name="Ejercicio_Salon13_d" UserDataComponentName="Ejercicio_Salon13_dTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon13_d" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Hombres, Mujeres FROM dbo.Ejercicio_Salon13_d</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Hombres" DataSetColumn="Hombres" />
+              <Mapping SourceColumn="Mujeres" DataSetColumn="Mujeres" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon14_aTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon14_aTableAdapter" Name="Ejercicio_Salon14_a" UserDataComponentName="Ejercicio_Salon14_aTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon14_a" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Egresos, Población FROM dbo.Ejercicio_Salon14_a</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Egresos" DataSetColumn="Egresos" />
+              <Mapping SourceColumn="Población" DataSetColumn="Población" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon14_bTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon14_bTableAdapter" Name="Ejercicio_Salon14_b" UserDataComponentName="Ejercicio_Salon14_bTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon14_b" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Hombres, Mujeres FROM dbo.Ejercicio_Salon14_b</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Hombres" DataSetColumn="Hombres" />
+              <Mapping SourceColumn="Mujeres" DataSetColumn="Mujeres" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Ejercicio_Salon14_cTableAdapter" GeneratorDataComponentClassName="Ejercicio_Salon14_cTableAdapter" Name="Ejercicio_Salon14_c" UserDataComponentName="Ejercicio_Salon14_cTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Base_de_datos_TC1019ConnectionString (Settings)" DbObjectName="[Base de datos TC1019].dbo.Ejercicio_Salon14_c" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Utilidades FROM dbo.Ejercicio_Salon14_c</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Utilidades" DataSetColumn="Utilidades" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Base_de_datos_TC1019DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Base_de_datos_TC1019DataSet" msprop:Generator_UserDSName="Base_de_datos_TC1019DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Ejercicio_Salon13_a" msprop:Generator_TableClassName="Ejercicio_Salon13_aDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon13_a" msprop:Generator_TablePropName="Ejercicio_Salon13_a" msprop:Generator_RowDeletingName="Ejercicio_Salon13_aRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon13_aRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon13_aRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon13_aRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon13_a" msprop:Generator_RowChangedName="Ejercicio_Salon13_aRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon13_aRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon13_aRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Entidad" msprop:Generator_ColumnVarNameInTable="columnEntidad" msprop:Generator_ColumnPropNameInRow="Entidad" msprop:Generator_ColumnPropNameInTable="EntidadColumn" msprop:Generator_UserColumnName="Entidad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Población" msprop:Generator_ColumnVarNameInTable="columnPoblación" msprop:Generator_ColumnPropNameInRow="Población" msprop:Generator_ColumnPropNameInTable="PoblaciónColumn" msprop:Generator_UserColumnName="Población" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ejercicio_Salon13_b" msprop:Generator_TableClassName="Ejercicio_Salon13_bDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon13_b" msprop:Generator_TablePropName="Ejercicio_Salon13_b" msprop:Generator_RowDeletingName="Ejercicio_Salon13_bRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon13_bRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon13_bRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon13_bRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon13_b" msprop:Generator_RowChangedName="Ejercicio_Salon13_bRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon13_bRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon13_bRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Entidad" msprop:Generator_ColumnVarNameInTable="columnEntidad" msprop:Generator_ColumnPropNameInRow="Entidad" msprop:Generator_ColumnPropNameInTable="EntidadColumn" msprop:Generator_UserColumnName="Entidad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ejercicio_Salon13_c" msprop:Generator_TableClassName="Ejercicio_Salon13_cDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon13_c" msprop:Generator_TablePropName="Ejercicio_Salon13_c" msprop:Generator_RowDeletingName="Ejercicio_Salon13_cRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon13_cRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon13_cRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon13_cRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon13_c" msprop:Generator_RowChangedName="Ejercicio_Salon13_cRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon13_cRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon13_cRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Hombres" msprop:Generator_ColumnVarNameInTable="columnHombres" msprop:Generator_ColumnPropNameInRow="Hombres" msprop:Generator_ColumnPropNameInTable="HombresColumn" msprop:Generator_UserColumnName="Hombres" type="xs:int" minOccurs="0" />
+              <xs:element name="_x003E_18_x0020_años" msprop:Generator_ColumnVarNameInTable="_column_18_años" msprop:Generator_ColumnPropNameInRow="__18_años" msprop:Generator_ColumnPropNameInTable="__18_añosColumn" msprop:Generator_UserColumnName="&gt;18 años" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ejercicio_Salon13_d" msprop:Generator_TableClassName="Ejercicio_Salon13_dDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon13_d" msprop:Generator_TablePropName="Ejercicio_Salon13_d" msprop:Generator_RowDeletingName="Ejercicio_Salon13_dRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon13_dRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon13_dRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon13_dRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon13_d" msprop:Generator_RowChangedName="Ejercicio_Salon13_dRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon13_dRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon13_dRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Hombres" msprop:Generator_ColumnVarNameInTable="columnHombres" msprop:Generator_ColumnPropNameInRow="Hombres" msprop:Generator_ColumnPropNameInTable="HombresColumn" msprop:Generator_UserColumnName="Hombres" type="xs:int" minOccurs="0" />
+              <xs:element name="Mujeres" msprop:Generator_ColumnVarNameInTable="columnMujeres" msprop:Generator_ColumnPropNameInRow="Mujeres" msprop:Generator_ColumnPropNameInTable="MujeresColumn" msprop:Generator_UserColumnName="Mujeres" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ejercicio_Salon14_a" msprop:Generator_TableClassName="Ejercicio_Salon14_aDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon14_a" msprop:Generator_TablePropName="Ejercicio_Salon14_a" msprop:Generator_RowDeletingName="Ejercicio_Salon14_aRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon14_aRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon14_aRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon14_aRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon14_a" msprop:Generator_RowChangedName="Ejercicio_Salon14_aRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon14_aRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon14_aRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Egresos" msprop:Generator_ColumnVarNameInTable="columnEgresos" msprop:Generator_ColumnPropNameInRow="Egresos" msprop:Generator_ColumnPropNameInTable="EgresosColumn" msprop:Generator_UserColumnName="Egresos" type="xs:int" minOccurs="0" />
+              <xs:element name="Población" msprop:Generator_ColumnVarNameInTable="columnPoblación" msprop:Generator_ColumnPropNameInRow="Población" msprop:Generator_ColumnPropNameInTable="PoblaciónColumn" msprop:Generator_UserColumnName="Población" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ejercicio_Salon14_b" msprop:Generator_TableClassName="Ejercicio_Salon14_bDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon14_b" msprop:Generator_TablePropName="Ejercicio_Salon14_b" msprop:Generator_RowDeletingName="Ejercicio_Salon14_bRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon14_bRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon14_bRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon14_bRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon14_b" msprop:Generator_RowChangedName="Ejercicio_Salon14_bRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon14_bRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon14_bRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Hombres" msprop:Generator_ColumnVarNameInTable="columnHombres" msprop:Generator_ColumnPropNameInRow="Hombres" msprop:Generator_ColumnPropNameInTable="HombresColumn" msprop:Generator_UserColumnName="Hombres" type="xs:int" minOccurs="0" />
+              <xs:element name="Mujeres" msprop:Generator_ColumnVarNameInTable="columnMujeres" msprop:Generator_ColumnPropNameInRow="Mujeres" msprop:Generator_ColumnPropNameInTable="MujeresColumn" msprop:Generator_UserColumnName="Mujeres" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ejercicio_Salon14_c" msprop:Generator_TableClassName="Ejercicio_Salon14_cDataTable" msprop:Generator_TableVarName="tableEjercicio_Salon14_c" msprop:Generator_TablePropName="Ejercicio_Salon14_c" msprop:Generator_RowDeletingName="Ejercicio_Salon14_cRowDeleting" msprop:Generator_RowChangingName="Ejercicio_Salon14_cRowChanging" msprop:Generator_RowEvHandlerName="Ejercicio_Salon14_cRowChangeEventHandler" msprop:Generator_RowDeletedName="Ejercicio_Salon14_cRowDeleted" msprop:Generator_UserTableName="Ejercicio_Salon14_c" msprop:Generator_RowChangedName="Ejercicio_Salon14_cRowChanged" msprop:Generator_RowEvArgName="Ejercicio_Salon14_cRowChangeEvent" msprop:Generator_RowClassName="Ejercicio_Salon14_cRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Utilidades" msprop:Generator_ColumnVarNameInTable="columnUtilidades" msprop:Generator_ColumnPropNameInRow="Utilidades" msprop:Generator_ColumnPropNameInTable="UtilidadesColumn" msprop:Generator_UserColumnName="Utilidades" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Ejercicio_Salon13_a" />
+      <xs:field xpath="mstns:Entidad" />
+    </xs:unique>
+    <xs:unique name="Ejercicio_Salon13_b_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Ejercicio_Salon13_b" />
+      <xs:field xpath="mstns:Entidad" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

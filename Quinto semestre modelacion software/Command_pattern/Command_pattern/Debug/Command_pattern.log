@@ -1,0 +1,14 @@
+﻿Build started 18/10/2016 07:41:54 a. m..
+     1>Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Quinto semestre modelacion software\Command_pattern\Command_pattern\Command_pattern.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt command.cpp
+         command.cpp
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\quinto semestre modelacion software\command_pattern\command_pattern\command.cpp(124): error C2446: '<' : no conversion from 'int *' to 'signature'
+                 There is no context in which this conversion is possible
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\quinto semestre modelacion software\command_pattern\command_pattern\command.cpp(124): error C2040: '<' : 'signature' differs in levels of indirection from 'int *'
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\quinto semestre modelacion software\command_pattern\command_pattern\command.cpp(124): error C2059: syntax error : ';'
+     1>Done Building Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Quinto semestre modelacion software\Command_pattern\Command_pattern\Command_pattern.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.76

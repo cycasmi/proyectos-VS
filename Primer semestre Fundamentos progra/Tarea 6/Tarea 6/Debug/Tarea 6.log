@@ -1,0 +1,19 @@
+﻿Compilación iniciada a las 09/04/2015 08:41:18 a.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre Fundamentos progra\Tarea 6\Tarea 6\Tarea 6.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "CynthiaCastillo-A01374530-Tarea6.c"
+         CynthiaCastillo-A01374530-Tarea6.c
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre fundamentos progra\tarea 6\tarea 6\cynthiacastillo-a01374530-tarea6.c(397): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char **'
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre fundamentos progra\tarea 6\tarea 6\cynthiacastillo-a01374530-tarea6.c(397): warning C4024: 'nombres' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre fundamentos progra\tarea 6\tarea 6\cynthiacastillo-a01374530-tarea6.c(431): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char **'
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre fundamentos progra\tarea 6\tarea 6\cynthiacastillo-a01374530-tarea6.c(431): warning C4024: 'ganador' : tipos distintos para el parámetro formal y el parámetro real 3
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre fundamentos progra\tarea 6\tarea 6\cynthiacastillo-a01374530-tarea6.c(444): warning C4244: 'función' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre fundamentos progra\tarea 6\tarea 6\cynthiacastillo-a01374530-tarea6.c(355): warning C4716: 'printdados' : debe devolver un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre Fundamentos progra\Tarea 6\Debug\Tarea 6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre Fundamentos progra\Tarea 6\Debug\Tarea 6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre Fundamentos progra\Tarea 6\Debug\Tarea 6.lib" /MACHINE:X86 "Debug\CynthiaCastillo-A01374530-Tarea6.obj"
+         Tarea 6.vcxproj -> C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre Fundamentos progra\Tarea 6\Debug\Tarea 6.exe
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre Fundamentos progra\Tarea 6\Tarea 6\Tarea 6.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:05.70

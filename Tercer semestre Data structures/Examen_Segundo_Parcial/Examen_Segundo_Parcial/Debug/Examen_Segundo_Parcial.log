@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 27/10/2015 02:58:46 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Examen_Segundo_Parcial\Examen_Segundo_Parcial\Examen_Segundo_Parcial.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Postfix.cpp Test_program.cpp
+         Test_program.cpp
+         Postfix.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre ing. software\examen_segundo_parcial\examen_segundo_parcial\postfix.cpp(64): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre ing. software\examen_segundo_parcial\examen_segundo_parcial\postfix.cpp(143): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre ing. software\examen_segundo_parcial\examen_segundo_parcial\postfix.cpp(204): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre ing. software\examen_segundo_parcial\examen_segundo_parcial\postfix.cpp(210): error C2276: '!' : operación no válida de la expresión de función miembro enlazada
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre ing. software\examen_segundo_parcial\examen_segundo_parcial\postfix.cpp(210): fatal error C1903: no se puede recuperar de errores anteriores; se detiene la compilación
+         Generando código...
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Examen_Segundo_Parcial\Examen_Segundo_Parcial\Examen_Segundo_Parcial.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:02.21

@@ -1,0 +1,52 @@
+﻿Build started 28/10/2016 07:02:29 a. m..
+     1>Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Angel\Angel\Angel.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Arduino.cpp ..\Bateria.cpp ..\Bluetooth.cpp ..\Capacitor.cpp ..\CI.cpp ..\Componentes.cpp ..\ComunicacionRF.cpp ..\Eliminador.cpp ..\Energia.cpp ..\LED.cpp ..\main.cpp ..\Microcontroladores.cpp ..\Producto.cpp ..\Resistencia.cpp ..\SparkFun.cpp ..\ZigBee.cpp
+         ZigBee.cpp
+         SparkFun.cpp
+         Resistencia.cpp
+         Producto.cpp
+         Microcontroladores.cpp
+         main.cpp
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(299): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(307): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(315): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(323): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(353): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(383): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(404): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\angel\main.cpp(412): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+         LED.cpp
+         Energia.cpp
+         Eliminador.cpp
+         ComunicacionRF.cpp
+         Componentes.cpp
+         CI.cpp
+         Capacitor.cpp
+         Bluetooth.cpp
+         Bateria.cpp
+         Arduino.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Angel\Debug\Angel.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Angel\Debug\Angel.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Angel\Debug\Angel.lib" /MACHINE:X86 Debug\Arduino.obj
+         Debug\Bateria.obj
+         Debug\Bluetooth.obj
+         Debug\Capacitor.obj
+         Debug\CI.obj
+         Debug\Componentes.obj
+         Debug\ComunicacionRF.obj
+         Debug\Eliminador.obj
+         Debug\Energia.obj
+         Debug\LED.obj
+         Debug\main.obj
+         Debug\Microcontroladores.obj
+         Debug\Producto.obj
+         Debug\Resistencia.obj
+         Debug\SparkFun.obj
+         Debug\ZigBee.obj
+         Angel.vcxproj -> C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Angel\Debug\Angel.exe
+     1>Done Building Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\Angel\Angel\Angel.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.26

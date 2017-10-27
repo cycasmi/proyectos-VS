@@ -1,0 +1,12 @@
+﻿Build started 18/01/2017 10:19:24 PM.
+     1>Project "C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Game Grafics Tutorials\HelloOpenGL\HelloOpenGL\HelloOpenGL.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Game Grafics Tutorials\HelloOpenGL\Dependencies\include\\" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\game grafics tutorials\helloopengl\helloopengl\main.cpp(38): error C3861: 'glewInit': identifier not found
+     1>c:\users\lobo4\documents\visual studio 2013\projects\graficas (infograhie)\game grafics tutorials\helloopengl\helloopengl\main.cpp(39): error C2065: 'GLEW_OK' : undeclared identifier
+     1>Done Building Project "C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Graficas (Infograhie)\Game Grafics Tutorials\HelloOpenGL\HelloOpenGL\HelloOpenGL.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56

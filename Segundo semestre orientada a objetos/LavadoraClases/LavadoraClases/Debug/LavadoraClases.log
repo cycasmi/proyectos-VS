@@ -1,0 +1,19 @@
+﻿Build started 06/09/2016 07:21:44 p. m..
+     1>Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\LavadoraClases\LavadoraClases\LavadoraClases.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lavadora.cpp main.cpp
+         main.cpp
+         Lavadora.cpp
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\lavadoraclases\lavadoraclases\lavadora.cpp(43): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\lavadoraclases\lavadoraclases\lavadora.cpp(45): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\segundo semestre orientada a objetos\lavadoraclases\lavadoraclases\lavadora.cpp(47): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\LavadoraClases\Debug\LavadoraClases.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\LavadoraClases\Debug\LavadoraClases.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\LavadoraClases\Debug\LavadoraClases.lib" /MACHINE:X86 Debug\Lavadora.obj
+         Debug\main.obj
+         LavadoraClases.vcxproj -> C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\LavadoraClases\Debug\LavadoraClases.exe
+     1>Done Building Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Segundo semestre orientada a objetos\LavadoraClases\LavadoraClases\LavadoraClases.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.93

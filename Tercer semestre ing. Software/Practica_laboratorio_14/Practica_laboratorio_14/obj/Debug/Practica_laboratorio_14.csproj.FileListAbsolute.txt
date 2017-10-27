@@ -1,0 +1,15 @@
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\bin\Debug\Practica_laboratorio_14.exe.config
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\bin\Debug\Practica_laboratorio_14.exe
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\bin\Debug\Practica_laboratorio_14.pdb
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.csprojResolveAssemblyReference.cache
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio13_a.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Properties.Resources.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.csproj.GenerateResource.Cache
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.exe
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.pdb
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio13_b.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio13_c.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio13_d.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio14_a.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio14.resources
+C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre ing. Software\Practica_laboratorio_14\Practica_laboratorio_14\obj\Debug\Practica_laboratorio_14.Ejercicio14_c.resources

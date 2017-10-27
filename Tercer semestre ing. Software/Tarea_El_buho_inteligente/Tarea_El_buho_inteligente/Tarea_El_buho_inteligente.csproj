@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47BB06DE-D68B-4873-9C94-70BD79D90F34}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tarea_El_buho_inteligente</RootNamespace>
+    <AssemblyName>Tarea_El_buho_inteligente</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Equipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos.Designer.cs">
+      <DependentUpon>Equipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nuevos Equipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nuevos Equipos.Designer.cs">
+      <DependentUpon>Nuevos Equipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informacion_Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informacion_Equipo.Designer.cs">
+      <DependentUpon>Informacion_Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pag_Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pag_Inicio.Designer.cs">
+      <DependentUpon>Pag_Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Practica_lab12DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Practica_lab12DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registrar_Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registrar_Equipo.Designer.cs">
+      <DependentUpon>Registrar_Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_semanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_semanal.Designer.cs">
+      <DependentUpon>Reporte_semanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seleccionar_equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seleccionar_equipo.Designer.cs">
+      <DependentUpon>Seleccionar_equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seleccion_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seleccion_cliente.Designer.cs">
+      <DependentUpon>Seleccion_cliente.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Equipos.resx">
+      <DependentUpon>Equipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nuevos Equipos.resx">
+      <DependentUpon>Nuevos Equipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informacion_Equipo.resx">
+      <DependentUpon>Informacion_Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pag_Inicio.resx">
+      <DependentUpon>Pag_Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registrar_Equipo.resx">
+      <DependentUpon>Registrar_Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_semanal.resx">
+      <DependentUpon>Reporte_semanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seleccionar_equipo.resx">
+      <DependentUpon>Seleccionar_equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seleccion_cliente.resx">
+      <DependentUpon>Seleccion_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Practica_lab12DataSet.xsc">
+      <DependentUpon>Practica_lab12DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Practica_lab12DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Practica_lab12DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Practica_lab12DataSet.xss">
+      <DependentUpon>Practica_lab12DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="education_29-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

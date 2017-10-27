@@ -1,0 +1,37 @@
+﻿Compilación iniciada a las 17/03/2015 08:28:17 a.m..
+     1>Proyecto "c:\Users\Lobo\documents\visual studio 2013\Projects\TresClases\TresClases\TresClases.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Cilindro.cpp Cono.cpp Cuadrado.cpp CuerposGeometricos.cpp Esfera.cpp FigGeometricas.cpp FigPlanas.cpp main.cpp Rectangulo.cpp Trapecio.cpp Triangulo.cpp
+         Triangulo.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tresclases\tresclases\triangulo.cpp(5): warning C4244: 'return' : conversión de 'double' a 'float'; posible pérdida de datos
+         Trapecio.cpp
+         Rectangulo.cpp
+         main.cpp
+         FigPlanas.cpp
+         FigGeometricas.cpp
+         Esfera.cpp
+         CuerposGeometricos.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tresclases\tresclases\cuerposgeometricos.h(12): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+         Cuadrado.cpp
+         Cono.cpp
+         Cilindro.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tresclases\tresclases\cuerposgeometricos.h(12): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lobo\documents\visual studio 2013\Projects\TresClases\Debug\TresClases.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lobo\documents\visual studio 2013\Projects\TresClases\Debug\TresClases.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lobo\documents\visual studio 2013\Projects\TresClases\Debug\TresClases.lib" /MACHINE:X86 Debug\Cilindro.obj
+         Debug\Cono.obj
+         Debug\Cuadrado.obj
+         Debug\CuerposGeometricos.obj
+         Debug\Esfera.obj
+         Debug\FigGeometricas.obj
+         Debug\FigPlanas.obj
+         Debug\main.obj
+         Debug\Rectangulo.obj
+         Debug\Trapecio.obj
+         Debug\Triangulo.obj
+         TresClases.vcxproj -> c:\users\lobo\documents\visual studio 2013\Projects\TresClases\Debug\TresClases.exe
+     1>Compilación del proyecto terminada "c:\Users\Lobo\documents\visual studio 2013\Projects\TresClases\TresClases\TresClases.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:09.15

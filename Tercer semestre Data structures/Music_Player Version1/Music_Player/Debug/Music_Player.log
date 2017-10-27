@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 11/10/2015 02:24:06 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Music_Player\Music_Player\Music_Player.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt double_test.cpp main.cpp
+         main.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\music_player\music_player\main.cpp(15): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Audio.hpp': No such file or directory
+         double_test.cpp
+         Generando código...
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Music_Player\Music_Player\Music_Player.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:01.37

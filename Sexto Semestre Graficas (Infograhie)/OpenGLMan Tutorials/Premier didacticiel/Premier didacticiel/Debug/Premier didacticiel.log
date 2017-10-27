@@ -1,0 +1,87 @@
+﻿Build started 30/03/2017 03:29:42 PM.
+     1>Project "C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Premier didacticiel\Premier didacticiel.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Examples.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Dependencies/include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt didacticiel_1.cpp DinoShape.cpp Experiments.cpp glm.cpp mirror.cpp Teapot.cpp TeapotStencil.cpp Transformations.cpp TriangleSquare.cpp SnowmanCamera.cpp
+         SnowmanCamera.cpp
+         TriangleSquare.cpp
+         Transformations.cpp
+         TeapotStencil.cpp
+         Teapot.cpp
+         mirror.cpp
+         glm.cpp
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(304): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(305): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(306): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(308): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(309): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(310): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(808): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(809): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(810): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(813): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1013): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1170): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1176): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1177): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1235): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1240): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1242): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1245): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\glm.cpp(1246): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+         Experiments.cpp
+         DinoShape.cpp
+         didacticiel_1.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Dependencies/include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt projection.c
+         projection.c
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(52): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(63): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(78): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(93): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(243): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(245): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(247): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(327): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(346): warning C4244: '=' : conversion from 'double' to 'GLuint', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(347): warning C4244: '=' : conversion from 'double' to 'GLuint', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(363): warning C4305: 'function' : truncation from 'double' to 'GLclampf'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(473): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(474): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(474): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(475): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(475): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(476): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(477): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(477): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(478): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(478): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(479): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(482): warning C4244: 'function' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(485): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(493): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(515): warning C4305: 'function' : truncation from 'double' to 'GLfloat'
+     1>c:\users\lobo4\documents\visual studio 2013\projects\sexto semestre graficas (infograhie)\openglman tutorials\premier didacticiel\premier didacticiel\projection.c(561): warning C4305: 'function' : truncation from 'double' to 'GLclampf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Debug\Premier didacticiel.exe" /INCREMENTAL /NOLOGO freeglut.lib glew32.lib glew32s.lib SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Debug\Premier didacticiel.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Debug\Premier didacticiel.lib" /MACHINE:X86 Debug\didacticiel_1.obj
+         Debug\DinoShape.obj
+         Debug\Experiments.obj
+         Debug\glm.obj
+         Debug\mirror.obj
+         Debug\projection.obj
+         Debug\Teapot.obj
+         Debug\TeapotStencil.obj
+         Debug\Transformations.obj
+         Debug\TriangleSquare.obj
+         Debug\SnowmanCamera.obj
+     1>projection.obj : error LNK2019: unresolved external symbol _glmUnitize referenced in function _drawmodel
+     1>projection.obj : error LNK2019: unresolved external symbol _glmFacetNormals referenced in function _drawmodel
+     1>projection.obj : error LNK2019: unresolved external symbol _glmVertexNormals referenced in function _drawmodel
+     1>projection.obj : error LNK2019: unresolved external symbol _glmReadOBJ referenced in function _drawmodel
+     1>projection.obj : error LNK2019: unresolved external symbol _glmDraw referenced in function _drawmodel
+     1>C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Debug\Premier didacticiel.exe : fatal error LNK1120: 5 unresolved externals
+     1>Done Building Project "C:\Users\lobo4\Documents\Visual Studio 2013\Projects\Sexto Semestre Graficas (Infograhie)\OpenGLMan Tutorials\Premier didacticiel\Premier didacticiel\Premier didacticiel.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.44

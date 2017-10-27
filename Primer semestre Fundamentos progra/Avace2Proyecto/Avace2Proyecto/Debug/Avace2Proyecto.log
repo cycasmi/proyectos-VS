@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 31/12/2014 09:44:32 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre\Avace2Proyecto\Avace2Proyecto\Avace2Proyecto.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Proyecto2.c
+         Proyecto2.c
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre\avace2proyecto\avace2proyecto\proyecto2.c(86): warning C4013: 'as' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre\avace2proyecto\avace2proyecto\proyecto2.c(143): warning C4047: 'return' : 'int' es distinto en los niveles de direccionamiento indirecto de 'int *'
+     1>c:\users\lobo\documents\visual studio 2013\projects\primer semestre\avace2proyecto\avace2proyecto\proyecto2.c(247): warning C4244: 'función' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre\Avace2Proyecto\Debug\Avace2Proyecto.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre\Avace2Proyecto\Debug\Avace2Proyecto.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre\Avace2Proyecto\Debug\Avace2Proyecto.lib" /MACHINE:X86 Debug\Proyecto2.obj
+         Avace2Proyecto.vcxproj -> C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre\Avace2Proyecto\Debug\Avace2Proyecto.exe
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Primer semestre\Avace2Proyecto\Avace2Proyecto\Avace2Proyecto.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.46

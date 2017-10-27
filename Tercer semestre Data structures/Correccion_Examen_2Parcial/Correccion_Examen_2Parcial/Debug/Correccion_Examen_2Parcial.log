@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 30/10/2015 01:22:49 p.m..
+     1>Proyecto "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Correccion_Examen_2Parcial\Correccion_Examen_2Parcial\Correccion_Examen_2Parcial.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Postfix.cpp Test_program.cpp
+         Test_program.cpp
+         Postfix.cpp
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\correccion_examen_2parcial\correccion_examen_2parcial\postfix.cpp(64): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\correccion_examen_2parcial\correccion_examen_2parcial\postfix.cpp(143): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\correccion_examen_2parcial\correccion_examen_2parcial\postfix.cpp(204): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\correccion_examen_2parcial\correccion_examen_2parcial\postfix.cpp(197): warning C4101: 'token' : variable local sin referencia
+         Generando código...
+     1>c:\users\lobo\documents\visual studio 2013\projects\tercer semestre data structures\correccion_examen_2parcial\correccion_examen_2parcial\binarytree.h(305): warning C4715: 'BinaryTree<char>::recursiveFindHeight' : no todas las rutas de acceso de control devuelven un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Correccion_Examen_2Parcial\Debug\Correccion_Examen_2Parcial.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Correccion_Examen_2Parcial\Debug\Correccion_Examen_2Parcial.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Correccion_Examen_2Parcial\Debug\Correccion_Examen_2Parcial.lib" /MACHINE:X86 Debug\Postfix.obj
+         Debug\Test_program.obj
+         Correccion_Examen_2Parcial.vcxproj -> C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Correccion_Examen_2Parcial\Debug\Correccion_Examen_2Parcial.exe
+     1>Compilación del proyecto terminada "C:\Users\Lobo\Documents\Visual Studio 2013\Projects\Tercer semestre Data structures\Correccion_Examen_2Parcial\Correccion_Examen_2Parcial\Correccion_Examen_2Parcial.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:05.68

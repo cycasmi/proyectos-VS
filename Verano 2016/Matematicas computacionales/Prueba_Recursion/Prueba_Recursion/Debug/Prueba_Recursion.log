@@ -1,0 +1,14 @@
+﻿Build started 16/06/2016 02:32:55 p. m..
+     1>Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Prueba_Recursion\Prueba_Recursion\Prueba_Recursion.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt recursion_abecedario.cpp
+         recursion_abecedario.cpp
+     1>c:\users\indspiron 15-5559\documents\visual studio 2013\projects\verano 2016\matematicas computacionales\prueba_recursion\prueba_recursion\recursion_abecedario.cpp(23): warning C4715: 'recursivo' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Prueba_Recursion\Debug\Prueba_Recursion.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Prueba_Recursion\Debug\Prueba_Recursion.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Prueba_Recursion\Debug\Prueba_Recursion.lib" /MACHINE:X86 Debug\recursion_abecedario.obj
+         Prueba_Recursion.vcxproj -> C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Prueba_Recursion\Debug\Prueba_Recursion.exe
+     1>Done Building Project "C:\Users\Indspiron 15-5559\Documents\Visual Studio 2013\Projects\Verano 2016\Matematicas computacionales\Prueba_Recursion\Prueba_Recursion\Prueba_Recursion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.57
